@@ -1,1 +1,1 @@
-[Configuration Reference](Справка по конфигурированию.md)
+[Справка по конфигурированию](Configuration Reference.md)
